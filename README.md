@@ -4,6 +4,7 @@
 
 
 ________________________________________________________
+[Тайная жизнь программ.pdf](https://github.com/user-attachments/files/20163849/default.pdf)
 
 ____________________________________________________________
 _______[Solidity в действии.pdf](https://github.com/user-attachments/files/20028465/Solidity.pdf)
