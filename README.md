@@ -7,7 +7,15 @@ _____________________________________________________
 _____________[Справочник Линуксоида.pdf](https://github.com/user-attachments/files/20444399/default.pdf)
 _______
 [Библия C#.pdf](https://github.com/user-attachments/files/20657901/C.pdf)
+______________________________________________________
+[Data Analysis with LLMs.pdf](https://github.com/user-attachments/files/20691962/Data.Analysis.with.LLMs.pdf)
 
+_______________________________________________________
+[Uploading Building_Quantum_Software_with_Python_final_compressed.pdf…]()
+
+_____________________________________________________
+
+_________________________________________________________
 _____________________________________________________
 [Uploading OSINT. Руководство по сбору и анализу открытой информации в интернете.pdf…]()
 
