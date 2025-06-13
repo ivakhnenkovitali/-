@@ -9,7 +9,12 @@ _______
 [Библия C#.pdf](https://github.com/user-attachments/files/20657901/C.pdf)
 ______________________________________________________
 [Data Analysis with LLMs.pdf](https://github.com/user-attachments/files/20691962/Data.Analysis.with.LLMs.pdf)
+_______________________________________________________________
+[Робототехника на Raspberry.pdf](https://github.com/user-attachments/files/20729894/Raspberry.pdf)
 
+_______________________________________________________________
+
+_____________________________________________________________
 _______________________________________________________
 [Uploading Building_Quantum_Software_with_Python_final_compressed.pdf…]()
 
