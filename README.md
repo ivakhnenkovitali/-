@@ -14,6 +14,7 @@ _______________________________________________________
 [Uploading Building_Quantum_Software_with_Python_final_compressed.pdf…]()
 
 _____________________________________________________
+[Data Without Labelsбб.pdf](https://github.com/user-attachments/files/20729872/Data.Without.Labels.pdf)
 
 _________________________________________________________
 __[Настоящий SRE.pdf](https://github.com/user-attachments/files/20693790/SRE.pdf)
