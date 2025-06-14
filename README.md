@@ -128,9 +128,10 @@ _________________________________________________________________
 
 [Uploading Профессиональная работа с Git.pdf…]()
 
+[FireShot Capture 446 - Распространение радиоволн .pdf](https://github.com/user-attachments/files/20739902/FireShot.Capture.446.-.pdf)
 
 _______________________________________________
-![FireShot Capture 446 - Распространение радиоволн ](https://github.com/user-attachments/assets/c92313b9-4f20-49ae-bdb8-df1fab2ea1f5)
+
 
 __________________________________________
 
