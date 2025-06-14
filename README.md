@@ -13,7 +13,18 @@ _______________________________________________________________
 [Робототехника на Raspberry.pdf](https://github.com/user-attachments/files/20729894/Raspberry.pdf)
 
 _______________________________________________________________
+![FireShot Capture 446 - Распространение радиоволн ](https://github.com/user-attachments/assets/c92313b9-4f20-49ae-bdb8-df1fab2ea1f5)
 
+_______________________________________________________
+
+[GPS antenna installations.pdf](https://github.com/user-attachments/files/20739893/GPS.antenna.installations.pdf)
+
+_______________________________________________________
+[Rothammel_K._Antenny_1_tom.Fragment.pdf](https://github.com/user-attachments/files/20739894/Rothammel_K._Antenny_1_tom.Fragment.pdf)
+
+_______________________________________________________
+
+______________________________________________________
 _____________________________________________________________
 _______________________________________________________
 [Uploading Building_Quantum_Software_with_Python_final_compressed.pdf…]()
