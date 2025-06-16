@@ -13,6 +13,7 @@ _______________________________________________________________
 [Робототехника на Raspberry.pdf](https://github.com/user-attachments/files/20729894/Raspberry.pdf)
 
 _______________________________________________________________
+[Digital Logic Circuits With VHDL and Verilog Programs.pdf](https://github.com/user-attachments/files/20758767/Digital.Logic.Circuits.With.VHDL.and.Verilog.Programs.pdf)
 
 
 _______________________________________________________
