@@ -24,9 +24,12 @@ _______________________________________________________
 [Rothammel_K._Antenny_1_tom.Fragment.pdf](https://github.com/user-attachments/files/20739894/Rothammel_K._Antenny_1_tom.Fragment.pdf)
 
 _______________________________________________________
+[Инженерия данных в Python_compressed.pdf](https://github.com/user-attachments/files/20777247/Python_compressed.pdf)
 
 ______________________________________________________
+
 _____________________________________________________________
+
 _______________________________________________________
 [Uploading Building_Quantum_Software_with_Python_final_compressed.pdf…]()
 
