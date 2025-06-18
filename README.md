@@ -30,6 +30,7 @@ ______________________________________________________
 [Uploading Kotlin. Паттерны проектирования и лучшие практики, 3-е изд..pdf…]()
 
 _____________________________________________________________
+[Engineering Secure Devices_True.pdf](https://github.com/user-attachments/files/20792328/Engineering.Secure.Devices_True.pdf)
 
 _______________________________________________________
 [Uploading Building_Quantum_Software_with_Python_final_compressed.pdf…]()
