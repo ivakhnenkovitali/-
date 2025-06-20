@@ -15,6 +15,7 @@ _______________________________________________________________
 _______________________________________________________________
 [Digital Logic Circuits With VHDL and Verilog Programs.pdf](https://github.com/user-attachments/files/20758767/Digital.Logic.Circuits.With.VHDL.and.Verilog.Programs.pdf)
 
+[Искусственный интеллект глазами хакера.pdf](https://github.com/user-attachments/files/20840067/default.pdf)
 
 _______________________________________________________
 
