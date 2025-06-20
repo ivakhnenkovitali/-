@@ -55,6 +55,7 @@ ________________________________________________________________
 [Go идиомы 2.pdf](https://github.com/user-attachments/files/19526374/Go.2.pdf)
 ______________________________________________________________________
 [Тестирование на проникновение с Kali Linux.pdf](https://github.com/user-attachments/files/19725909/Kali.Linux.pdf)
+[The_Art_of_AI_Product_Development_Delivering_business_value_with_compressed.pdf](https://github.com/user-attachments/files/20839881/The_Art_of_AI_Product_Development_Delivering_business_value_with_compressed.pdf)
 
 ______________________________________________________________________
 
