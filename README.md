@@ -28,7 +28,13 @@ _______________________________________________________
 [Инженерия данных в Python_compressed.pdf](https://github.com/user-attachments/files/20777247/Python_compressed.pdf)
 
 ______________________________________________________
-[Uploading Kotlin. Паттерны проектирования и лучшие практики, 3-е изд..pdf…]()
+[Uploading Kotlin. Паттерны проектирования и лучшие практики, 3-е изд..pdf…]() 
+___________________________________________________________
+[Learning_AI_Tools_in_Tableau_True.pdf](https://github.com/user-attachments/files/20860424/Learning_AI_Tools_in_Tableau_True.pdf)
+
+______________________________________________________
+
+____________________________________________________
 
 _____________________________________________________________
 [Engineering Secure Devices_True.pdf](https://github.com/user-attachments/files/20792328/Engineering.Secure.Devices_True.pdf)
