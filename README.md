@@ -11,6 +11,7 @@ ___________________________________________________________
 _________________________________________________________
 
 __________________________________________________________
+[Kotlin в иллюстрациях_compressed.pdf](https://github.com/user-attachments/files/20929367/Kotlin._compressed.pdf)
 
 __________________________________________________________
 __[Efficient Node.Js_True.pdf](https://github.com/user-attachments/files/20897759/Efficient.Node.Js_True.pdf)
