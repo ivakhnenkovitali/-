@@ -9,6 +9,7 @@ __________________________________________________________
 ___________________________________________________________
 
 _________________________________________________________
+[Python Polars_The Definitive Guide_True.pdf](https://github.com/user-attachments/files/20940649/Python.Polars_The.Definitive.Guide_True.pdf)
 
 __________________________________________________________
 [Kotlin в иллюстрациях_compressed.pdf](https://github.com/user-attachments/files/20929367/Kotlin._compressed.pdf)
