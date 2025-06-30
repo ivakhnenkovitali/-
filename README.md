@@ -7,6 +7,7 @@ ___________________________________________________________
 __________________________________________________________
 
 ___________________________________________________________
+[Effective Shell_compressed.pdf](https://github.com/user-attachments/files/20973836/Effective.Shell_compressed.pdf)
 
 _________________________________________________________
 [Python Polars_The Definitive Guide_True.pdf](https://github.com/user-attachments/files/20940649/Python.Polars_The.Definitive.Guide_True.pdf)
