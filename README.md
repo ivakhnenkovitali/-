@@ -18,7 +18,10 @@ __________________________________________________________
 __________________________________________________________
 __[Efficient Node.Js_True.pdf](https://github.com/user-attachments/files/20897759/Efficient.Node.Js_True.pdf)
 ___________________________________________________________________________
-_____[RESTful Web API паттерны и практики.pdf](https://github.com/user-attachments/files/20273795/RESTful.Web.API.pdf)
+______________________________________________
+[R[Алгоритмы и структуры данных._compressed.pdf](https://github.com/user-attachments/files/20982071/_compressed.pdf) 
+___________________________________________________________________________________
+ESTful Web API паттерны и практики.pdf](https://github.com/user-attachments/files/20273795/RESTful.Web.API.pdf)
 _____________________________________________________
 _____________[Справочник Линуксоида.pdf](https://github.com/user-attachments/files/20444399/default.pdf)
 _______
