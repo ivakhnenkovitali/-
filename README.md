@@ -5,6 +5,7 @@
 ___________________________________________________________
 
 __________________________________________________________
+[Learning Python_6Ed_True.pdf](https://github.com/user-attachments/files/21015923/Learning.Python_6Ed_True.pdf)
 
 ___________________________________________________________
 [Effective Shell_compressed.pdf](https://github.com/user-attachments/files/20973836/Effective.Shell_compressed.pdf)
