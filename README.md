@@ -11,6 +11,7 @@ ______________________________________________________
 _________________________________________________
 
 ________________________________________________
+[Learning PHP, MySQL   JS_7Ed_True.pdf](https://github.com/user-attachments/files/21051444/Learning.PHP.MySQL.JS_7Ed_True.pdf)
 __________________________________________________________
 [Learning Python_6Ed_True.pdf](https://github.com/user-attachments/files/21015923/Learning.Python_6Ed_True.pdf)
 
