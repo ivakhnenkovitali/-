@@ -2,8 +2,10 @@
 # -
 КОШЫК
 ___________________________________________________________
+[R for Data Analysis.pdf](https://github.com/user-attachments/files/21096837/R.for.Data.Analysis.pdf)
 
 ______________________________________________________
+[Learning PHP, MySQL   JS_7Ed_True.pdf](https://github.com/user-attachments/files/21096828/Learning.PHP.MySQL.JS_7Ed_True.pdf)
 
 ______________________________________________________
 [Лабораторный практикум по языку SQL в СУБД MySQL1_compressed.pdf](https://github.com/user-attachments/files/21077460/SQL.MySQL1_compressed.pdf)
