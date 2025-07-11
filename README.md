@@ -64,6 +64,7 @@ ___________________________________________________________
 [Learning_AI_Tools_in_Tableau_True.pdf](https://github.com/user-attachments/files/20860424/Learning_AI_Tools_in_Tableau_True.pdf)
 
 ______________________________________________________
+[Беспроводное приключение_compressed.pdf](https://github.com/user-attachments/files/21185601/_compressed.pdf)
 
 ____________________________________________________
 [MySQL Crash Course_True_compressed.pdf](https://github.com/user-attachments/files/21179663/MySQL.Crash.Course_True_compressed.pdf)
