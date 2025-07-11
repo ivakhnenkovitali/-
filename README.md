@@ -66,6 +66,7 @@ ___________________________________________________________
 ______________________________________________________
 
 ____________________________________________________
+[MySQL Crash Course_True_compressed.pdf](https://github.com/user-attachments/files/21179663/MySQL.Crash.Course_True_compressed.pdf)
 
 _____________________________________________________________
 [Engineering Secure Devices_True.pdf](https://github.com/user-attachments/files/20792328/Engineering.Secure.Devices_True.pdf)
