@@ -6,7 +6,6 @@ ___________________________________________________________
 __________________________________________________
 ____________________________________________________
 [A Simple Guide to RAG_True_compressed.pdf](https://github.com/user-attachments/files/21315530/A.Simple.Guide.to.RAG_True_compressed.pdf)
-
 ______________________________________________________
 [Learning PHP, MySQL   JS_7Ed_True.pdf](https://github.com/user-attachments/files/21096828/Learning.PHP.MySQL.JS_7Ed_True.pdf)
 
