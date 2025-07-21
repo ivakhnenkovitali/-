@@ -109,6 +109,7 @@ ______________________________________________________________________
 [tsunami-security-scanner-master.zip](https://github.com/user-attachments/files/16760628/tsunami-security-scanner-master.zip)
 [Topology Optimization Via L-systems and Genetic Algorithms.pdf](https://github.com/user-attachments/files/21341581/Topology.Optimization.Via.L-systems.and.Genetic.Algorithms.pdf)
 
+[Arduino. Искусственный интеллект.pdf](https://github.com/user-attachments/files/21350793/Arduino.pdf)
 
 
 [Кибербезопасность.pdf](https://github.com/user-attachments/files/16918589/default.pdf)
