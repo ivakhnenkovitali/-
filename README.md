@@ -133,6 +133,7 @@ __________________________________________________________
 
 [default.pdf](https://github.com/user-attachments/files/19249410/default.pdf)
 
+[How Large Language Models Work.pdf](https://github.com/user-attachments/files/21380919/How.Large.Language.Models.Work.pdf)
 
 
 
