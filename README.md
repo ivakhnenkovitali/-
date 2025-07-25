@@ -3,6 +3,8 @@
 КОШЫК
 ___________________________________________________________
 [R for Data Analysis.pdf](https://github.com/user-attachments/files/21096837/R.for.Data.Analysis.pdf)
+________________________________________________________
+[multi-paradigm-programming.pdf](https://github.com/user-attachments/files/21425461/multi-paradigm-programming.pdf)
 __________________________________________________
 ____________________________________________________
 [A Simple Guide to RAG_True_compressed.pdf](https://github.com/user-attachments/files/21315530/A.Simple.Guide.to.RAG_True_compressed.pdf)
