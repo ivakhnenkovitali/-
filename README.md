@@ -13,7 +13,6 @@ ______________________________________________________
 
 ______________________________________________________
 [Лабораторный практикум по языку SQL в СУБД MySQL1_compressed.pdf](https://github.com/user-attachments/files/21077460/SQL.MySQL1_compressed.pdf)
-
 _________________________________________________
 [Python для хакеров.pdf](https://github.com/user-attachments/files/21077408/Python.pdf)
 
