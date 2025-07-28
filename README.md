@@ -142,6 +142,7 @@ __________________________________________________________
 
 _[Julia Data Science.pdf](https://github.com/user-attachments/files/21214259/Julia.Data.Science.pdf)
 __________________________________________________________________
+[Обучение с малым количеством данных_compressed_compressed-сжатый.pdf](https://github.com/user-attachments/files/21472389/_compressed_compressed-.pdf)
 
 ________________________________________________________________
 
