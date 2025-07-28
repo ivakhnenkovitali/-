@@ -5,7 +5,9 @@ ___________________________________________________________
 [R for Data Analysis.pdf](https://github.com/user-attachments/files/21096837/R.for.Data.Analysis.pdf)
 ________________________________________________________
 [multi-paradigm-programming.pdf](https://github.com/user-attachments/files/21425461/multi-paradigm-programming.pdf)
-__________________________________________________
+________________________________________________________
+[Learn SQL in a Month of Lunches_Final_compressed.pdf](https://github.com/user-attachments/files/21462797/Learn.SQL.in.a.Month.of.Lunches_Final_compressed.pdf)
+____________________________________________
 ____________________________________________________
 [A Simple Guide to RAG_True_compressed.pdf](https://github.com/user-attachments/files/21315530/A.Simple.Guide.to.RAG_True_compressed.pdf)
 ______________________________________________________
