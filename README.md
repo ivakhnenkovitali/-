@@ -1,6 +1,12 @@
 
 # -
 КОШЫК
+_______________________________________________________
+
+_____________________________________________________________
+____[Grokking Algorithms, Second Edition_compressed.pdf](https://github.com/user-attachments/files/21508743/Grokking.Algorithms.Second.Edition_compressed.pdf)
+_________________________________________________________
+
 ___________________________________________________________
 [R for Data Analysis.pdf](https://github.com/user-attachments/files/21096837/R.for.Data.Analysis.pdf)
 ________________________________________________________
