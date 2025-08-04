@@ -13,6 +13,7 @@ _______________________________________________________
 _____________________________________________________________
 [Grokking Algorithms, Second Edition_compressed.pdf](https://github.com/user-attachments/files/21508743/Grokking.Algorithms.Second.Edition_compressed.pdf)
 _________________________________________________________
+[NET 8 приложения.pdf](https://github.com/user-attachments/files/21580511/NET.8.pdf)
 
 ___________________________________________________________
 [R for Data Analysis.pdf](https://github.com/user-attachments/files/21096837/R.for.Data.Analysis.pdf)
