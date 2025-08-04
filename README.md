@@ -2,11 +2,14 @@
 # -
 КОШЫК
 _______________________________________________________
+
 ______________________________________________________
 
 _______________________________________________________
+[Pro ASP.NET Core 7 10Ed_compressed.pdf](https://github.com/user-attachments/files/21571531/Pro.ASP.NET.Core.7.10Ed_compressed.pdf)
 
 _______________________________________________________
+
 _____________________________________________________________
 [Grokking Algorithms, Second Edition_compressed.pdf](https://github.com/user-attachments/files/21508743/Grokking.Algorithms.Second.Edition_compressed.pdf)
 _________________________________________________________
