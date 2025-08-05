@@ -7,6 +7,7 @@ ______________________________________________________
 
 _______________________________________________________
 [Pro ASP.NET Core 7 10Ed_compressed.pdf](https://github.com/user-attachments/files/21571531/Pro.ASP.NET.Core.7.10Ed_compressed.pdf)
+[RAG и генеративный ИИ.pdf](https://github.com/user-attachments/files/21604258/RAG.pdf)
 
 _______________________________________________________
 
