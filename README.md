@@ -10,6 +10,7 @@ _______________________________________________________
 [RAG и генеративный ИИ.pdf](https://github.com/user-attachments/files/21604258/RAG.pdf)
 
 _______________________________________________________
+[Искусство схемотехники, 3-е издание. Часть вторая. Цифровая_compressed_compressed-сжатый_compressed.pdf](https://github.com/user-attachments/files/21622314/3-._compressed_compressed-._compressed.pdf)
 
 _____________________________________________________________
 [Grokking Algorithms, Second Edition_compressed.pdf](https://github.com/user-attachments/files/21508743/Grokking.Algorithms.Second.Edition_compressed.pdf)
