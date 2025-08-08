@@ -155,6 +155,7 @@ __________________________________________________________
 
 [How Large Language Models Work.pdf](https://github.com/user-attachments/files/21380919/How.Large.Language.Models.Work.pdf)
 
+[Введение в компьютерную графику реального времени c DirectX 12.pdf](https://github.com/user-attachments/files/21687205/c.DirectX.12.pdf)
 
 
 _[Julia Data Science.pdf](https://github.com/user-attachments/files/21214259/Julia.Data.Science.pdf)
