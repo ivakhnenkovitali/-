@@ -120,8 +120,6 @@ ______________________________________________________________________
 [The_Art_of_AI_Product_Development_Delivering_business_value_with_compressed.pdf](https://github.com/user-attachments/files/20839881/The_Art_of_AI_Product_Development_Delivering_business_value_with_compressed.pdf)
 
 ______________________________________________________________________
-
-
 [faraday-master.zip](https://github.com/user-attachments/files/16760639/faraday-master.zip)
 [nmap-bootstrap-xsl-stable.zip](https://github.com/user-attachments/files/16760638/nmap-bootstrap-xsl-stable.zip)
 
