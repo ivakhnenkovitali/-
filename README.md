@@ -4,6 +4,8 @@
 _______________________________________________________
 [AI_Agents_in_Action_True_compressed.pdf](https://github.com/user-attachments/files/21710066/AI_Agents_in_Action_True_compressed.pdf)
 
+[Актуальная кибербезопасность.pdf](https://github.com/user-attachments/files/21748373/default.pdf)
+
 ______________________________________________________
 [The Well-Grounded Data Analyst_True_compressed.pdf](https://github.com/user-attachments/files/21678687/The.Well-Grounded.Data.Analyst_True_compressed.pdf)
 
