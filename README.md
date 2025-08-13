@@ -4,6 +4,7 @@
 _______________________________________________________
 [AI_Agents_in_Action_True_compressed.pdf](https://github.com/user-attachments/files/21710066/AI_Agents_in_Action_True_compressed.pdf)
 [Effective Data Analysis_Final_compressed.pdf](https://github.com/user-attachments/files/21749702/Effective.Data.Analysis_Final_compressed.pdf)
+[Справочник Word. Кратко, быстро, под рукой_compressed-.pdf](https://github.com/user-attachments/files/21758029/Word._compressed-.pdf)
 
 
 
