@@ -3,8 +3,9 @@
 КОШЫК
 _______________________________________________________
 [AI_Agents_in_Action_True_compressed.pdf](https://github.com/user-attachments/files/21710066/AI_Agents_in_Action_True_compressed.pdf)
+[Effective Data Analysis_Final_compressed.pdf](https://github.com/user-attachments/files/21749702/Effective.Data.Analysis_Final_compressed.pdf)
 
-[Актуальная кибербезопасность.pdf](https://github.com/user-attachments/files/21748373/default.pdf)
+
 
 ______________________________________________________
 [The Well-Grounded Data Analyst_True_compressed.pdf](https://github.com/user-attachments/files/21678687/The.Well-Grounded.Data.Analyst_True_compressed.pdf)
@@ -15,7 +16,7 @@ _______________________________________________________
 
 _______________________________________________________
 [Искусство схемотехники, 3-е издание. Часть вторая. Цифровая_compressed_compressed-сжатый_compressed.pdf](https://github.com/user-attachments/files/21622314/3-._compressed_compressed-._compressed.pdf)
-
+[Актуальная кибербезопасность.pdf](https://github.com/user-attachments/files/21748373/default.pdf)
 _____________________________________________________________
 [Grokking Algorithms, Second Edition_compressed.pdf](https://github.com/user-attachments/files/21508743/Grokking.Algorithms.Second.Edition_compressed.pdf)
 _________________________________________________________
