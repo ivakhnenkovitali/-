@@ -7,6 +7,7 @@ _______________________________________________________
 [Справочник Word. Кратко, быстро, под рукой_compressed-.pdf](https://github.com/user-attachments/files/21758029/Word._compressed-.pdf)
 [MongoDB in Action_Final.pdf](https://github.com/user-attachments/files/21791405/MongoDB.in.Action_Final.pdf)
 [250 скриптов на языке Python1_compressed.pdf](https://github.com/user-attachments/files/21799318/250.Python1_compressed.pdf)
+[A Concise Introduction to Robot Programming with ROS 2_2Ed_compressed.pdf](https://github.com/user-attachments/files/21828685/A.Concise.Introduction.to.Robot.Programming.with.ROS.2_2Ed_compressed.pdf)
 
 
 
