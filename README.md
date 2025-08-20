@@ -9,6 +9,7 @@ _______________________________________________________
 [250 скриптов на языке Python1_compressed.pdf](https://github.com/user-attachments/files/21799318/250.Python1_compressed.pdf)
 [A Concise Introduction to Robot Programming with ROS 2_2Ed_compressed.pdf](https://github.com/user-attachments/files/21828685/A.Concise.Introduction.to.Robot.Programming.with.ROS.2_2Ed_compressed.pdf)
 
+[A Concise Introduction to Machine Learning_2Ed_compressed.pdf](https://github.com/user-attachments/files/21885678/A.Concise.Introduction.to.Machine.Learning_2Ed_compressed.pdf)
 
 
 ______________________________________________________
