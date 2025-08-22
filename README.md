@@ -69,6 +69,8 @@ __________________________________________________________
 __________________________________________________________
 __[Efficient Node.Js_True.pdf](https://github.com/user-attachments/files/20897759/Efficient.Node.Js_True.pdf)
 ___________________________________________________________________________
+[Edge Computing_Systems.pdf](https://github.com/user-attachments/files/21940719/Edge.Computing_Systems.pdf)
+
 ______________________________________________
 [R[Алгоритмы и структуры данных._compressed.pdf](https://github.com/user-attachments/files/20982071/_compressed.pdf) 
 ___________________________________________________________________________________
