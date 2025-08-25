@@ -218,6 +218,7 @@ ________________________________________________________________
 ____________________________________________________________________
 ___[Quantum Programming in Depth_Final_compressed.pdf](https://github.com/user-attachments/files/21248700/Quantum.Programming.in.Depth_Final_compressed.pdf)
 ______________________________________________________________
+[Uploading Experimental Methodology for Human Robot Interaction.pdf…]()
 
 
 [Безопасность веб-приложений. Разведка, защита, нападение, 2 изд.pdf](https://github.com/user-attachments/files/17231762/-.2.pdf)
