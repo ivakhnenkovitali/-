@@ -244,6 +244,7 @@ _________________________________
 [Компьютерные сети_compressed.pdf](https://github.com/user-attachments/files/21668459/_compressed.pdf)
 
 __________________________________
+[кибер.pdf](https://github.com/user-attachments/files/21991225/default.pdf)
 
        
            
