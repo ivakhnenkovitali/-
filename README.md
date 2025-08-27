@@ -35,6 +35,8 @@ _____________________________________________________________
 _________________________________________________________
 [NET 8 приложения.pdf](https://github.com/user-attachments/files/21580511/NET.8.pdf)
 
+[refactoring-.pdf](https://github.com/user-attachments/files/22001895/refactoring-.pdf)
+
 ___________________________________________________________
 [R for Data Analysis.pdf](https://github.com/user-attachments/files/21096837/R.for.Data.Analysis.pdf)
 ________________________________________________________
