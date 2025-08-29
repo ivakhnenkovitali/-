@@ -244,6 +244,7 @@ ______________________________________
 _________________________________
 
 [Компьютерные сети_compressed.pdf](https://github.com/user-attachments/files/21668459/_compressed.pdf)
+[Essential GraphRAG_Final_compressed.pdf](https://github.com/user-attachments/files/22039647/Essential.GraphRAG_Final_compressed.pdf)
 
 __________________________________
 [кибер.pdf](https://github.com/user-attachments/files/21991225/default.pdf)
