@@ -249,7 +249,9 @@ _________________________________
 __________________________________
 [кибер.pdf](https://github.com/user-attachments/files/21991225/default.pdf)
 
-       
+[Node.js разработка приложений_compressed.pdf](https://github.com/user-attachments/files/22066962/Node.js._compressed.pdf)
+
+   
            
 
 
