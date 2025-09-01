@@ -69,14 +69,14 @@ __________________________________________________________
 [Kotlin в иллюстрациях_compressed.pdf](https://github.com/user-attachments/files/20929367/Kotlin._compressed.pdf)
 
 __________________________________________________________
-__[Efficient Node.Js_True.pdf](https://github.com/user-attachments/files/20897759/Efficient.Node.Js_True.pdf)
+[Efficient Node.Js_True.pdf](https://github.com/user-attachments/files/20897759/Efficient.Node.Js_True.pdf)
 ___________________________________________________________________________
 [Edge Computing_Systems.pdf](https://github.com/user-attachments/files/21940719/Edge.Computing_Systems.pdf)
 
 ______________________________________________
-[R[Алгоритмы и структуры данных._compressed.pdf](https://github.com/user-attachments/files/20982071/_compressed.pdf) 
+[Алгоритмы и структуры данных._compressed.pdf](https://github.com/user-attachments/files/20982071/_compressed.pdf) 
 ___________________________________________________________________________________
-ESTful Web API паттерны и практики.pdf](https://github.com/user-attachments/files/20273795/RESTful.Web.API.pdf)
+(https://github.com/user-attachments/files/20273795/RESTful.Web.API.pdf)
 _____________________________________________________
 _____________[Справочник Линуксоида.pdf](https://github.com/user-attachments/files/20444399/default.pdf)
 _______
