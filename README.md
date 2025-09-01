@@ -252,6 +252,7 @@ __________________________________
 [Node.js разработка приложений_compressed.pdf](https://github.com/user-attachments/files/22066962/Node.js._compressed.pdf)
 
  [Quantum Computing From Concepts to Code.pdf](https://github.com/user-attachments/files/22072090/Quantum.Computing.From.Concepts.to.Code.pdf)
+[Искусство Agile-тестирования_compressed.pdf](https://github.com/user-attachments/files/22080750/Agile-._compressed.pdf)
   
            
 
