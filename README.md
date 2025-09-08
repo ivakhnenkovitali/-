@@ -1,7 +1,4 @@
 
-   резюме 
-   
-[-.pdf](https://github.com/user-attachments/files/22169654/-.pdf)
 
 
 
