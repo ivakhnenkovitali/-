@@ -1,9 +1,14 @@
+__________________________________________________________________________
+ РЕЗЮМЕШКИ
+_________________________________________________________________
+
+[на русском .pdf](https://github.com/user-attachments/files/22216846/default.pdf)
 
 
+[Englich_ .pdf.pdf](https://github.com/user-attachments/files/22216840/Englich_.pdf.pdf)
 
 
-[05.092025_резюме_на русском .pdf](https://github.com/user-attachments/files/22216702/05.092025_._.pdf)
-
+[__Deutsch.pdf.pdf](https://github.com/user-attachments/files/22216839/__Deutsch.pdf.pdf)
 
 ___________________________________________________________________
 _____________________________________________________________
