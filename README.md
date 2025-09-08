@@ -4,24 +4,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ___________________________________________________________________
 _____________________________________________________________
 _____________________________________________________________________
@@ -302,6 +284,7 @@ __________________________________
   [Скрипты. Сценарии автоматизации.pdf](https://github.com/user-attachments/files/22124069/default.pdf)
          
 [FromDayZerotoZeroDay_compressed.pdf](https://github.com/user-attachments/files/22168559/FromDayZerotoZeroDay_compressed.pdf)
+[Statistics Every Programmer Needs_Final_compressed.pdf](https://github.com/user-attachments/files/22212688/Statistics.Every.Programmer.Needs_Final_compressed.pdf)
 
 
 
