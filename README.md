@@ -285,6 +285,7 @@ __________________________________
          
 [FromDayZerotoZeroDay_compressed.pdf](https://github.com/user-attachments/files/22168559/FromDayZerotoZeroDay_compressed.pdf)
 [Statistics Every Programmer Needs_Final_compressed.pdf](https://github.com/user-attachments/files/22212688/Statistics.Every.Programmer.Needs_Final_compressed.pdf)
+[Старт с С++.pdf](https://github.com/user-attachments/files/22213927/%2B%2B.pdf)
 
 
 
