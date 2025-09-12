@@ -276,11 +276,13 @@ __________________________________
 [CockroachDB_2Ed_Final_True.pdf](https://github.com/user-attachments/files/22291902/CockroachDB_2Ed_Final_True.pdf)
 
 
+[Администрирование Astra Linux_compressed.pdf](https://github.com/user-attachments/files/22301488/Astra.Linux_compressed.pdf)
 
 
 [Баг-трекинг локализация и оформление дефектов_compressed_compressed_compressed.pdf](https://github.com/user-attachments/files/22301418/-._compressed_compressed_compressed.pdf)
 
 
+[Справочник сисадмина_compressed.pdf](https://github.com/user-attachments/files/22301613/_compressed.pdf)
 
 
 
