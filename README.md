@@ -22,7 +22,6 @@ _______________________________________________________
 
 [MongoDB in Action_Final.pdf](https://github.com/user-attachments/files/21791405/MongoDB.in.Action_Final.pdf)
 
-[250 скриптов на языке Python1_compressed.pdf] 
 
 (https://github.com/user-attachments/files/21799318/250.Python1_compressed.pdf)
 
