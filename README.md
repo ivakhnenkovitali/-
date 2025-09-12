@@ -78,7 +78,7 @@ https://github.com/user-attachments/files/21799318/250.Python1_compressed.pdf
 
 [Алгоритмы и структуры данных._compressed.pdf](https://github.com/user-attachments/files/20982071/_compressed.pdf) 
 
-(https://github.com/user-attachments/files/20273795/RESTful.Web.API.pdf)
+https://github.com/user-attachments/files/20273795/RESTful.Web.API.pdf
 
 [Справочник Линуксоида.pdf](https://github.com/user-attachments/files/20444399/default.pdf)
 
@@ -168,7 +168,7 @@ https://github.com/user-attachments/files/21799318/250.Python1_compressed.pdf
 
 [Введение в компьютерную графику реального времени c DirectX 12.pdf](https://github.com/user-attachments/files/21687205/c.DirectX.12.pdf)
 
-_[Julia Data Science.pdf](https://github.com/user-attachments/files/21214259/Julia.Data.Science.pdf)
+[Julia Data Science.pdf](https://github.com/user-attachments/files/21214259/Julia.Data.Science.pdf)
 
 [Обучение с малым количеством данных_compressed_compressed-сжатый.pdf](https://github.com/user-attachments/files/21472389/_compressed_compressed-.pdf)
 
