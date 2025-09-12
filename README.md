@@ -33,7 +33,6 @@ _______________________________________________________
 
 [The Well-Grounded Data Analyst_True_compressed.pdf](https://github.com/user-attachments/files/21678687/The.Well-Grounded.Data.Analyst_True_compressed.pdf)
 
-[Uploading Программирование на Kotlin для Android_compressed.pdf…](
 
 [Pro ASP.NET Core 7 10Ed_compressed.pdf](https://github.com/user-attachments/files/21571531/Pro.ASP.NET.Core.7.10Ed_compressed.pdf)
 
