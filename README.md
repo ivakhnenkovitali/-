@@ -172,7 +172,7 @@ _[Julia Data Science.pdf](https://github.com/user-attachments/files/21214259/Jul
 
 [Обучение с малым количеством данных_compressed_compressed-сжатый.pdf](https://github.com/user-attachments/files/21472389/_compressed_compressed-.pdf)
 
-[BPF для [Шифровальщики.pdf](https://github.com/user-attachments/files/17043016/default.pdf)
+ [Шифровальщики.pdf](https://github.com/user-attachments/files/17043016/default.pdf)
 
 [Laravel. Полное руководство, 3-е изд.zip](https://github.com/user-attachments/files/17042998/Laravel.3-.zip)
 
