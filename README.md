@@ -278,6 +278,7 @@ __________________________________
 
 
 
+[Баг-трекинг локализация и оформление дефектов_compressed_compressed_compressed.pdf](https://github.com/user-attachments/files/22301418/-._compressed_compressed_compressed.pdf)
 
 
 
