@@ -18,7 +18,7 @@ _______________________________________________________
 [Effective Data Analysis_Final_compressed.pdf](https://github.com/user-attachments/files/21749702/Effective.Data.Analysis_Final_compressed.pdf)
 [Справочник Word. Кратко, быстро, под рукой_compressed-.pdf](https://github.com/user-attachments/files/21758029/Word._compressed-.pdf)
 [MongoDB in Action_Final.pdf](https://github.com/user-attachments/files/21791405/MongoDB.in.Action_Final.pdf)
-[250 скриптов на языке Python1_compressed.pdf](https://github.com/user-attachments/files/21799318/250.Python1_compressed.pdf)
+[250 скриптов на языке Python1_compressed.pdf]  (https://github.com/user-attachments/files/21799318/250.Python1_compressed.pdf)
 [A Concise Introduction to Robot Programming with ROS 2_2Ed_compressed.pdf](https://github.com/user-attachments/files/21828685/A.Concise.Introduction.to.Robot.Programming.with.ROS.2_2Ed_compressed.pdf)
 [A Concise Introduction to Machine Learning_2Ed_compressed.pdf](https://github.com/user-attachments/files/21885678/A.Concise.Introduction.to.Machine.Learning_2Ed_compressed.pdf)
 [Изучаем_Kali_Linux.pdf](https://github.com/user-attachments/files/21900696/_Kali_Linux.pdf)
