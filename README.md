@@ -14,6 +14,79 @@ ________________________________________________________________________________
 
 __________________________________________________________
 _______________________________________________________
+
+
+
+
+
+
+
+
+
+
+
+[Вероятностное машинное обучение_compressed.pdf](https://github.com/user-attachments/files/22304237/_compressed.pdf)
+
+[Python. 12 уроков для начинающих_compressed.pdf](https://github.com/user-attachments/files/22304234/Python.12._compressed.pdf)
+
+[Нейросетевые технологии_compressed.pdf](https://github.com/user-attachments/files/22304232/_compressed.pdf)
+
+[Практический_хакинг_интернета_вещей_compressed.pdf](https://github.com/user-attachments/files/22304229/_._._._compressed.pdf)
+
+[Проектирование систем машинного обучения_compressed.pdf](https://github.com/user-attachments/files/22304226/_compressed.pdf)
+
+[Реверсивный инжиниринг приложений под Windows_compressed.pdf](https://github.com/user-attachments/files/22304224/Windows_compressed.pdf)
+
+[Реверс-инжиниринг встраиваемых систем_compressed.pdf](https://github.com/user-attachments/files/22304222/-._compressed.pdf)
+
+[Python, Django, Data Science_compressed_compressed.pdf](https://github.com/user-attachments/files/22304218/Python.Django.Data.Science_compressed_compressed.pdf)
+
+[PostgreSQL. SQL + PL_pgSQL_compressed.pdf](https://github.com/user-attachments/files/22304213/PostgreSQL.SQL.%2B.PL_pgSQL_compressed.pdf)
+
+[Электроника шаг за шагом_compressed.pdf](https://github.com/user-attachments/files/22304211/_compressed.pdf)
+
+[Шифровальщики_compressed.pdf](https://github.com/user-attachments/files/22304208/_compressed.pdf)
+
+[Численные_методы_и_программирование_compressed.pdf](https://github.com/user-attachments/files/22304205/_._._._compressed.pdf)
+
+[Цифровая_обработка_вибрационных_сигналов_compressed.pdf](https://github.com/user-attachments/files/22304202/_._._._compressed.pdf)
+
+[Технологические_сети_и_системы_связи_compressed.pdf](https://github.com/user-attachments/files/22304200/_._._._._compressed.pdf)
+
+[Технологии IoT_compressed.pdf](https://github.com/user-attachments/files/22304199/IoT_compressed.pdf)
+
+[Создание приложений ML_compressed.pdf](https://github.com/user-attachments/files/22304197/ML_compressed.pdf)
+
+[Создание микросервисов_compressed.pdf](https://github.com/user-attachments/files/22304194/_compressed.pdf)
+
+[Разработка_с_использованием_квантовых_компьютеров_compressed.pdf](https://github.com/user-attachments/files/22304180/_._._._._compressed.pdf)
+
+[Работа с БД Microsoft SQL Server_compressed.pdf](https://github.com/user-attachments/files/22304178/Microsoft.SQL.Server_compressed.pdf)
+
+[Проектирование_и_разработка_WEB_приложений_compressed.pdf](https://github.com/user-attachments/files/22304176/_._._WEB_._compressed.pdf)
+
+[Проектирование СУБД._compressed.pdf](https://github.com/user-attachments/files/22304173/_compressed.pdf)
+
+[Программирование_микроконтроллеров_стратегия_и_тактика_compressed.pdf](https://github.com/user-attachments/files/22304170/_._._._._compressed.pdf)
+
+[Применение функций OpenCV_compressed.pdf](https://github.com/user-attachments/files/22304163/OpenCV_compressed.pdf)
+
+[Преступления в СОЦИ_compressed.pdf](https://github.com/user-attachments/files/22304161/_compressed.pdf)
+
+[Практическая безопасность сетей_compressed.pdf](https://github.com/user-attachments/files/22304159/_compressed.pdf)
+
+[Параллельные вычисления_compressed.pdf](https://github.com/user-attachments/files/22304154/_compressed.pdf)
+
+[От_хранения_данных_к_управлению_информацией_compressed.pdf](https://github.com/user-attachments/files/22304152/_._._._._._compressed.pdf)
+
+[Основы электроники_compressed.pdf](https://github.com/user-attachments/files/22304143/_compressed.pdf)
+
+[Основы технологий БД_compressed.pdf](https://github.com/user-attachments/files/22304142/_compressed.pdf)
+
+[Основы тестирования ПО_compressed.pdf](https://github.com/user-attachments/files/22304140/_compressed.pdf)
+
+[Математическое_программирование_compressed.pdf](https://github.com/user-attachments/files/22304138/_._compressed.pdf)
+
 [AI_Agents_in_Action_True_compressed.pdf](https://github.com/user-attachments/files/21710066/AI_Agents_in_Action_True_compressed.pdf)
 
 [Effective Data Analysis_Final_compressed.pdf](https://github.com/user-attachments/files/21749702/Effective.Data.Analysis_Final_compressed.pdf)
@@ -21,7 +94,6 @@ _______________________________________________________
 [Справочник Word. Кратко, быстро, под рукой_compressed-.pdf](https://github.com/user-attachments/files/21758029/Word._compressed-.pdf)
 
 [MongoDB in Action_Final.pdf](https://github.com/user-attachments/files/21791405/MongoDB.in.Action_Final.pdf)
-
 
 https://github.com/user-attachments/files/21799318/250.Python1_compressed.pdf
 
