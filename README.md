@@ -22,6 +22,7 @@ _______________________________________________________
 
 
 
+[DeepSeek на практике.pdf](https://github.com/user-attachments/files/22312199/DeepSeek.pdf)
 
 [Building_Quantum_Software_with_Python__11zon.pdf](https://github.com/user-attachments/files/22310872/Building_Quantum_Software_with_Python__11zon.pdf)
 
