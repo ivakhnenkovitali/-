@@ -23,6 +23,7 @@ _______________________________________________________
 
 
 
+[Системы ИИ_compressed.pdf](https://github.com/user-attachments/files/22310730/_compressed.pdf)
 
 
 [Вероятностное машинное обучение_compressed.pdf](https://github.com/user-attachments/files/22304237/_compressed.pdf)
