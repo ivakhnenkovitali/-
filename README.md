@@ -19,6 +19,34 @@ _______________________________________________________
 
 
 
+
+
+
+
+[Building_Quantum_Software_with_Python__11zon.pdf](https://github.com/user-attachments/files/22310872/Building_Quantum_Software_with_Python__11zon.pdf)
+
+[Data Analysis with LLMs_11zon.pdf](https://github.com/user-attachments/files/22310869/Data.Analysis.with.LLMs_11zon.pdf)
+
+[Профессиональная работа с Git.pdf](https://github.com/user-attachments/files/22310861/Git.pdf)
+
+[Building_Quantum_Software_with_Python_final_compressed.pdf](https://github.com/user-attachments/files/22310852/Building_Quantum_Software_with_Python_final_compressed.pdf)
+
+[Компьютерные сети_compressed.pdf](https://github.com/user-attachments/files/22310851/_compressed.pdf)
+
+[Профессиональная работа с Git.pdf](https://github.com/user-attachments/files/22310848/Git.pdf)
+
+[C# 8.0. Карманный справочник_compressed.pdf](https://github.com/user-attachments/files/22310833/C.8.0._compressed.pdf)
+
+[BPF для мониторинга Linux_compressed.pdf](https://github.com/user-attachments/files/22310832/BPF.Linux_compressed.pdf)
+
+[Справочник сисадмина.pdf](https://github.com/user-attachments/files/22310827/default.pdf)
+
+[Программирование графики на С++_compressed.pdf](https://github.com/user-attachments/files/22310768/%2B%2B_compressed.pdf)
+
+[Основы_использования_и_проектирования_БД_compressed.pdf](https://github.com/user-attachments/files/22310767/_._._._._compressed.pdf)
+
+[Основы_использования_и_проектирования_БД_compressed.pdf](https://github.com/user-attachments/files/22310763/_._._._._compressed.pdf)
+
 [Современный_язык_Java_Лямбда_выражения,_потоки_и_функциональное_compressed_compressed (1).pdf](https://github.com/user-attachments/files/22310760/_._Java_._._._._._compressed_compressed.1.pdf)
 
 [Основы_использования_и_проектирования_БД_compressed.pdf](https://github.com/user-attachments/files/22310749/_._._._._compressed.pdf)
