@@ -65,8 +65,6 @@ _______________________________________________________
 
 [Программирование графики на С++_compressed.pdf](https://github.com/user-attachments/files/22310768/%2B%2B_compressed.pdf)
 
-[Основы_использования_и_проектирования_БД_compressed.pdf](https://github.com/user-attachments/files/22310767/_._._._._compressed.pdf)
-
 [Основы_использования_и_проектирования_БД_compressed.pdf](https://github.com/user-attachments/files/22310763/_._._._._compressed.pdf)
 
 [Современный_язык_Java_Лямбда_выражения,_потоки_и_функциональное_compressed_compressed (1).pdf](https://github.com/user-attachments/files/22310760/_._Java_._._._._._compressed_compressed.1.pdf)
