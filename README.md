@@ -22,6 +22,27 @@ _______________________________________________________
 
 
 
+
+[Безопасность веб-приложений. Разведка, защита, нападение, 2 изд.pdf](https://github.com/user-attachments/files/22319339/-.2.pdf)
+
+[Bash и кибербезопасность.pdf](https://github.com/user-attachments/files/22319325/Bash.pdf)
+
+[Введение_в_вычислительные_системы_и_информационную_безопасно.pdf](https://github.com/user-attachments/files/22319324/_._._._._._.pdf)
+
+[КиберБ_в_условиях_электронного_банкинга.pdf](https://github.com/user-attachments/files/22319323/_._._._.pdf)
+
+[Кибербезопасность (2).pdf](https://github.com/user-attachments/files/22319321/2.pdf)
+
+[Кибербезопасность.pdf](https://github.com/user-attachments/files/22319319/default.pdf)
+
+[Кибердзюцу.pdf](https://github.com/user-attachments/files/22319317/default.pdf)
+
+[Основы кибербезопасности.pdf](https://github.com/user-attachments/files/22319315/default.pdf)
+
+[Цифровая_экономика,_хактивизм_и_кибербезопасность_2019.pdf](https://github.com/user-attachments/files/22319313/_._._._._2019.pdf)
+
+[CVRubydevLobanova.pdf](https://github.com/user-attachments/files/22319307/CVRubydevLobanova.pdf)
+
 [DeepSeek на практике.pdf](https://github.com/user-attachments/files/22312199/DeepSeek.pdf)
 
 [Building_Quantum_Software_with_Python__11zon.pdf](https://github.com/user-attachments/files/22310872/Building_Quantum_Software_with_Python__11zon.pdf)
