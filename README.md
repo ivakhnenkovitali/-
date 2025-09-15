@@ -23,6 +23,11 @@ _______________________________________________________
 
 
 
+
+
+
+[Изучаем Data Science (1).pdf](https://github.com/user-attachments/files/22348118/Data.Science.1.pdf)
+
 [Безопасность веб-приложений. Разведка, защита, нападение, 2 изд.pdf](https://github.com/user-attachments/files/22319339/-.2.pdf)
 
 [Bash и кибербезопасность.pdf](https://github.com/user-attachments/files/22319325/Bash.pdf)
