@@ -26,6 +26,7 @@ _______________________________________________________
 
 
 
+[Изучаем Data Science.pdf](https://github.com/user-attachments/files/22377876/Data.Science.pdf)
 
 [Изучаем Data Science (1).pdf](https://github.com/user-attachments/files/22348118/Data.Science.1.pdf)
 
