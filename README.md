@@ -24,6 +24,7 @@ _______________________________________________________
 
 
 
+[WordPress Power Toolkit_compressed.pdf](https://github.com/user-attachments/files/22426749/WordPress.Power.Toolkit_compressed.pdf)
 
 [Изучаем Data Science_compressed.pdf](https://github.com/user-attachments/files/22406909/Data.Science_compressed.pdf)
 
