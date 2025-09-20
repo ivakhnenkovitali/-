@@ -21,16 +21,15 @@ _______________________________________________________
 
 
 
+[Профессиональная верификация_compressed.pdf](https://github.com/user-attachments/files/22443667/_compressed.pdf)
 
-
+[React_compressed.pdf](https://github.com/user-attachments/files/22443642/React_compressed.pdf)
 
 [WordPress Power Toolkit_compressed.pdf](https://github.com/user-attachments/files/22426749/WordPress.Power.Toolkit_compressed.pdf)
 
 [Изучаем Data Science_compressed.pdf](https://github.com/user-attachments/files/22406909/Data.Science_compressed.pdf)
 
 [Изучаем Data Science.pdf](https://github.com/user-attachments/files/22377876/Data.Science.pdf)
-
-[Изучаем Data Science (1).pdf](https://github.com/user-attachments/files/22348118/Data.Science.1.pdf)
 
 [Безопасность веб-приложений. Разведка, защита, нападение, 2 изд.pdf](https://github.com/user-attachments/files/22319339/-.2.pdf)
 
