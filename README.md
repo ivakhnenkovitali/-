@@ -21,6 +21,10 @@ _______________________________________________________
 
 
 
+
+
+
+
 [Профессиональная верификация_compressed.pdf](https://github.com/user-attachments/files/22443667/_compressed.pdf)
 
 [React_compressed.pdf](https://github.com/user-attachments/files/22443642/React_compressed.pdf)
