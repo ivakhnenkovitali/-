@@ -23,7 +23,7 @@ _______________________________________________________
 
 
 
-
+[Analysis of Threat Perceptions.pdf](https://github.com/user-attachments/files/22460429/Analysis.of.Threat.Perceptions.pdf)
 
 [Профессиональная верификация_compressed.pdf](https://github.com/user-attachments/files/22443667/_compressed.pdf)
 
