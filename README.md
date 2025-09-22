@@ -389,6 +389,7 @@ https://github.com/user-attachments/files/20273795/RESTful.Web.API.pdf
 [Баг-трекинг локализация и оформление дефектов_compressed_compressed_compressed.pdf](https://github.com/user-attachments/files/22301418/-._compressed_compressed_compressed.pdf)
 
 [Справочник сисадмина_compressed.pdf](https://github.com/user-attachments/files/22301613/_compressed.pdf)
+[Изучаем Data Science.pdf](https://github.com/user-attachments/files/22460456/Data.Science.pdf)
 
 
 
