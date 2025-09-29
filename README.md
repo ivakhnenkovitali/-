@@ -24,6 +24,7 @@ _______________________________________________________
 
 
 
+[Classical Mechanics_Python_2Ed_compressed.pdf](https://github.com/user-attachments/files/22595766/Classical.Mechanics_Python_2Ed_compressed.pdf)
 
 [Lecture Notes in Deep Learning_compressed.pdf](https://github.com/user-attachments/files/22511341/Lecture.Notes.in.Deep.Learning_compressed.pdf)
 
