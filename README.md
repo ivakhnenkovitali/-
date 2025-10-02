@@ -11,13 +11,8 @@ ________________________________________________________________________________
 # -
 КОШЫК
 
-
 __________________________________________________________
 _______________________________________________________
-
-
-
-
 
 [Advanced Engineering Mathematics with MATLAB_6Ed.pdf](https://github.com/user-attachments/files/22641052/Advanced.Engineering.Mathematics.with.MATLAB_6Ed.pdf)
 
