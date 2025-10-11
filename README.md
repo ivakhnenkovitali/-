@@ -16,9 +16,6 @@ _______________________________________________________
 
 
 
-
-
-
 [Learn Docker in a Month of Lunches_2Ed_Final-сжатый.pdf](https://github.com/user-attachments/files/22841226/Learn.Docker.in.a.Month.of.Lunches_2Ed_Final-.pdf)
 
 [Write Powerful Rust Macros_True.pdf](https://github.com/user-attachments/files/22760062/Write.Powerful.Rust.Macros_True.pdf)
