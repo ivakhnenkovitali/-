@@ -15,6 +15,9 @@ __________________________________________________________
 _______________________________________________________
 
 
+
+
+
 [Coding with AI Examples in Python_True-сжатый.pdf](https://github.com/user-attachments/files/22881669/Coding.with.AI.Examples.in.Python_True-.pdf)
 
 [Learn Docker in a Month of Lunches_2Ed_Final-сжатый.pdf](https://github.com/user-attachments/files/22841226/Learn.Docker.in.a.Month.of.Lunches_2Ed_Final-.pdf)
