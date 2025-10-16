@@ -16,7 +16,6 @@ _______________________________________________________
 
 
 
-
 [AI_Agents_in_Action_True-сжатый.pdf](https://github.com/user-attachments/files/22920046/AI_Agents_in_Action_True-.pdf)
 
 [Coding with AI Examples in Python_True-сжатый.pdf](https://github.com/user-attachments/files/22881669/Coding.with.AI.Examples.in.Python_True-.pdf)
