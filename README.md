@@ -15,6 +15,7 @@ __________________________________________________________
 _______________________________________________________
 
 
+[Nature-inspired Metaheuristic Algorithms-сжатый.pdf](https://github.com/user-attachments/files/22968279/Nature-inspired.Metaheuristic.Algorithms-.pdf)
 
 [AI_Agents_in_Action_True-сжатый.pdf](https://github.com/user-attachments/files/22920046/AI_Agents_in_Action_True-.pdf)
 
