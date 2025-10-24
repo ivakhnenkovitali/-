@@ -29,7 +29,9 @@ _______________________________________________________
 
 
 
+[Deep Learning with Python_3Ed_True-сжатый.pdf](https://github.com/user-attachments/files/23119194/Deep.Learning.with.Python_3Ed_True-.pdf)
 
+[Investing for Programmers_Final-сжатый.pdf](https://github.com/user-attachments/files/23119215/Investing.for.Programmers_Final-.pdf)
 
 [Optimizing_Edge_and_Fog_Computing_Applications_with_AI_and_Metah.pdf](https://github.com/user-attachments/files/23052397/Optimizing_Edge_and_Fog_Computing_Applications_with_AI_and_Metah.pdf)
 
