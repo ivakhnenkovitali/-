@@ -19,30 +19,7 @@ _______________________________________________________
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+[Apache Polaris_Final.pdf](https://github.com/user-attachments/files/23161205/Apache.Polaris_Final.pdf)
 
 [Deep Learning with Python_3Ed_True-сжатый.pdf](https://github.com/user-attachments/files/23119194/Deep.Learning.with.Python_3Ed_True-.pdf)
 
