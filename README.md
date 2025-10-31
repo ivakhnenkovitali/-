@@ -26,9 +26,9 @@ _______________________________________________________
 
 
 
+[Microsoft 365 Copilot Adoption.pdf](https://github.com/user-attachments/files/23261429/Microsoft.365.Copilot.Adoption.pdf)
 
 [Fundamentals of Metadata Management_True.pdf](https://github.com/user-attachments/files/23234020/Fundamentals.of.Metadata.Management_True.pdf)
-
 
 [Apache Polaris_Final.pdf](https://github.com/user-attachments/files/23161205/Apache.Polaris_Final.pdf)
 
