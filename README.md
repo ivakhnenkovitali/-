@@ -421,6 +421,10 @@ https://github.com/user-attachments/files/20273795/RESTful.Web.API.pdf
 
 [Баг-трекинг локализация и оформление дефектов_compressed_compressed_compressed.pdf](https://github.com/user-attachments/files/22301418/-._compressed_compressed_compressed.pdf)
 
+[tetra_tpg2200_pager_data_sheet_uk.pdf](https://github.com/user-attachments/files/23283242/tetra_tpg2200_pager_data_sheet_uk.pdf)
+
+[R7_.pdf](https://github.com/user-attachments/files/23283245/R7_.pdf)
+
 [Справочник сисадмина_compressed.pdf](https://github.com/user-attachments/files/22301613/_compressed.pdf)
 [Изучаем Data Science.pdf](https://github.com/user-attachments/files/22460456/Data.Science.pdf)
 
