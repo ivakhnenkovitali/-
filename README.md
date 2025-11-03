@@ -33,6 +33,7 @@ _______________________________________________________
 
 
 
+[AI-Driven Cybersecurity.pdf](https://github.com/user-attachments/files/23302254/AI-Driven.Cybersecurity.pdf)
 
 [Microsoft 365 Copilot Adoption.pdf](https://github.com/user-attachments/files/23261429/Microsoft.365.Copilot.Adoption.pdf)
 
