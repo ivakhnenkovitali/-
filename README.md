@@ -44,6 +44,7 @@ _______________________________________________________
 
 
 
+[Wireshark Essentials.pdf](https://github.com/user-attachments/files/23353232/Wireshark.Essentials.pdf)
 
 [AI-Driven Cybersecurity.pdf](https://github.com/user-attachments/files/23302254/AI-Driven.Cybersecurity.pdf)
 
