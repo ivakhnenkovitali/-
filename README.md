@@ -43,6 +43,7 @@ _______________________________________________________
 
 
 
+[Python For Excel Users_compressed-сжатый.pdf](https://github.com/user-attachments/files/23414496/Python.For.Excel.Users_compressed-.pdf)
 
 [Wireshark Essentials.pdf](https://github.com/user-attachments/files/23353232/Wireshark.Essentials.pdf)
 
