@@ -41,6 +41,7 @@ _______________________________________________________
 
 
 
+[Кибербезопасность_ц.pdf](https://github.com/user-attachments/files/23431951/_.pdf)
 
 [Кибербезопасность объектов-сжаты.pdf](https://github.com/user-attachments/files/23431939/-.pdf)
 
