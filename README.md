@@ -42,6 +42,7 @@ _______________________________________________________
 
 
 
+[Кибербезопасность объектов-сжаты.pdf](https://github.com/user-attachments/files/23431939/-.pdf)
 
 [Python For Excel Users_compressed-сжатый.pdf](https://github.com/user-attachments/files/23414496/Python.For.Excel.Users_compressed-.pdf)
 
