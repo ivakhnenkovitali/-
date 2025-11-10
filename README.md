@@ -25,6 +25,7 @@ _______________________________________________________
 
 
 
+[Geocomputation_with_R_2Ed.pdf](https://github.com/user-attachments/files/23447387/Geocomputation_with_R_2Ed.pdf)
 
 [Введение_в_вычислительные_системы_и_информационную_безопасно.pdf](https://github.com/user-attachments/files/23439758/_._._._._._.pdf)
 
