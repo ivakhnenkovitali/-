@@ -23,6 +23,7 @@ _______________________________________________________
 
 
 
+[Python For Excel Users-сжатый.pdf](https://github.com/user-attachments/files/23517198/Python.For.Excel.Users-.pdf)
 
 [Decentralized Optimization in Networks.pdf](https://github.com/user-attachments/files/23493702/Decentralized.Optimization.in.Networks.pdf)
 
