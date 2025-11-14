@@ -20,8 +20,11 @@ _______________________________________________________
 
 
 
+[AI_and_Machine_Learning_for_Mechanical_and_Electrical_Engineerin-сжатый.pdf](https://github.com/user-attachments/files/23541827/AI_and_Machine_Learning_for_Mechanical_and_Electrical_Engineerin-.pdf)
 
+[Python For Excel Users-сжатый.pdf](https://github.com/user-attachments/files/23541826/Python.For.Excel.Users-.pdf)
 
+[Geocomputation_with_R_2Ed-сжатый.pdf](https://github.com/user-attachments/files/23541822/Geocomputation_with_R_2Ed-.pdf)
 
 [Python For Excel Users-сжатый.pdf](https://github.com/user-attachments/files/23517198/Python.For.Excel.Users-.pdf)
 
