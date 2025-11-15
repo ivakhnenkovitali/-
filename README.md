@@ -18,7 +18,9 @@ _______________________________________________________
 
 
 
+[сэм_ньюмен_создание_микросервисов.pdf](https://github.com/user-attachments/files/23561759/_._._.pdf)
 
+[Head_First_Patterny_proektirovania.pdf](https://github.com/user-attachments/files/23561754/Head_First_Patterny_proektirovania.pdf)
 
 [AI_and_Machine_Learning_for_Mechanical_and_Electrical_Engineerin-сжатый.pdf](https://github.com/user-attachments/files/23541827/AI_and_Machine_Learning_for_Mechanical_and_Electrical_Engineerin-.pdf)
 
