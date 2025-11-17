@@ -16,6 +16,7 @@ _______________________________________________________
 
 
 
+[AI - Assisted Programming.pdf](https://github.com/user-attachments/files/23589172/AI.-.Assisted.Programming.pdf)
 
 [A Gamer_s Introduction to Programming with MonoGame.pdf](https://github.com/user-attachments/files/23575733/A.Gamer_s.Introduction.to.Programming.with.MonoGame.pdf)
 
