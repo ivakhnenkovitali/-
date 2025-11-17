@@ -17,6 +17,7 @@ _______________________________________________________
 
 
 
+[A Gamer_s Introduction to Programming with MonoGame.pdf](https://github.com/user-attachments/files/23575733/A.Gamer_s.Introduction.to.Programming.with.MonoGame.pdf)
 
 [сэм_ньюмен_создание_микросервисов.pdf](https://github.com/user-attachments/files/23561759/_._._.pdf)
 
