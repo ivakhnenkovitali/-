@@ -15,6 +15,7 @@ __________________________________________________________
 _______________________________________________________
 
 
+[Админ СЗ в SELinux.pdf](https://github.com/user-attachments/files/23610062/SELinux.pdf)
 
 [AI - Assisted Programming.pdf](https://github.com/user-attachments/files/23589172/AI.-.Assisted.Programming.pdf)
 
