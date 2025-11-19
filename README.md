@@ -14,7 +14,7 @@ ________________________________________________________________________________
 __________________________________________________________
 _______________________________________________________
 
-[VITALI IVAKHNENKA.pdf](https://github.com/user-attachments/files/23632865/VITALI.IVAKHNENKA.pdf)
+
 
 [Админ СЗ в SELinux.pdf](https://github.com/user-attachments/files/23610062/SELinux.pdf)
 
