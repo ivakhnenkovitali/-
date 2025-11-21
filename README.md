@@ -15,6 +15,7 @@ __________________________________________________________
 _______________________________________________________
 
 
+[Building a Virtual Assistant for Raspberry Pi.pdf](https://github.com/user-attachments/files/23669052/Building.a.Virtual.Assistant.for.Raspberry.Pi.pdf)
 
 [Админ СЗ в SELinux.pdf](https://github.com/user-attachments/files/23610062/SELinux.pdf)
 
