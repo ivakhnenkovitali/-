@@ -14,6 +14,12 @@ ________________________________________________________________________________
 __________________________________________________________
 _______________________________________________________
 
+[Building a Virtual Assistant for Raspberry Pi.pdf](https://github.com/user-attachments/files/23675042/Building.a.Virtual.Assistant.for.Raspberry.Pi.pdf)
+
+[Artificial_Intelligence,_Machine_Learning_And_Iot_For_Smart_Busi.pdf](https://github.com/user-attachments/files/23675040/Artificial_Intelligence._Machine_Learning_And_Iot_For_Smart_Busi.pdf)
+
+[A Gamer_s Introduction to Programming with MonoGame.pdf](https://github.com/user-attachments/files/23675038/A.Gamer_s.Introduction.to.Programming.with.MonoGame.pdf)
+
 
 [Building a Virtual Assistant for Raspberry Pi.pdf](https://github.com/user-attachments/files/23669052/Building.a.Virtual.Assistant.for.Raspberry.Pi.pdf)
 
