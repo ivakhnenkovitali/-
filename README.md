@@ -15,6 +15,7 @@ __________________________________________________________
 _______________________________________________________
 
 
+[BPF для мониторинга Linux.pdf](https://github.com/user-attachments/files/23695744/BPF.Linux.pdf)
 
 [Artificial_Intelligence,_Machine_Learning_And_Iot_For_Smart_Busi.pdf](https://github.com/user-attachments/files/23675040/Artificial_Intelligence._Machine_Learning_And_Iot_For_Smart_Busi.pdf)
 
