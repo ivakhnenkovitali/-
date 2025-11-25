@@ -14,6 +14,15 @@ ________________________________________________________________________________
 __________________________________________________________
 _______________________________________________________
 
+
+https://github.com/user-attachments/assets/d7a5ef6b-a1e1-492d-a8cd-eb3fc366870f
+
+________________________________________________________________________
+
+
+
+____________________________________________________________________
+
 [Knowledge Graphs and LLMs in Action_Final-сжатый.pdf](https://github.com/user-attachments/files/23717017/Knowledge.Graphs.and.LLMs.in.Action_Final-.pdf)
 
 [BPF для мониторинга Linux.pdf](https://github.com/user-attachments/files/23695744/BPF.Linux.pdf)
