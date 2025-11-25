@@ -21,6 +21,10 @@ ________________________________________________________________________
 
 
 
+https://github.com/user-attachments/assets/8730e0ae-dd8f-4220-adb3-a8a49b330e99
+
+
+
 ____________________________________________________________________
 
 [Knowledge Graphs and LLMs in Action_Final-сжатый.pdf](https://github.com/user-attachments/files/23717017/Knowledge.Graphs.and.LLMs.in.Action_Final-.pdf)
