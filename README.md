@@ -29,6 +29,7 @@ ____________________________________________________________________
 
 
 
+[PostgreSQL. SQL + PL_pgSQL_compressed.pdf](https://github.com/user-attachments/files/23806861/PostgreSQL.SQL.%2B.PL_pgSQL_compressed.pdf)
 
 [Troubleshooting Java_2Ed_True-сжатый.pdf](https://github.com/user-attachments/files/23773117/Troubleshooting.Java_2Ed_True-.pdf)
 
