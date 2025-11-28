@@ -27,7 +27,7 @@ https://github.com/user-attachments/assets/8730e0ae-dd8f-4220-adb3-a8a49b330e99
 
 ____________________________________________________________________
 
-
+[Secure APIs_.pdf](https://github.com/user-attachments/files/23824391/Secure.APIs_.pdf)
 
 [PostgreSQL. SQL + PL_pgSQL_compressed.pdf](https://github.com/user-attachments/files/23806861/PostgreSQL.SQL.%2B.PL_pgSQL_compressed.pdf)
 
