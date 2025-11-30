@@ -28,9 +28,9 @@ https://github.com/user-attachments/assets/8730e0ae-dd8f-4220-adb3-a8a49b330e99
 ____________________________________________________________________
 
 
+[Analytics Engineering with SQL and dbt.pdf](https://github.com/user-attachments/files/23839537/Analytics.Engineering.with.SQL.and.dbt.pdf)
 
 [GPT-4. Руководство по использованию API Open AI.pdf](https://github.com/user-attachments/files/23834239/GPT-4.API.Open.AI.pdf)
-
 
 [Secure APIs_.pdf](https://github.com/user-attachments/files/23824391/Secure.APIs_.pdf)
 
