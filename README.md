@@ -15,18 +15,12 @@ __________________________________________________________
 _______________________________________________________
 
 
-https://github.com/user-attachments/assets/d7a5ef6b-a1e1-492d-a8cd-eb3fc366870f
-
-________________________________________________________________________
-
-
-
-https://github.com/user-attachments/assets/8730e0ae-dd8f-4220-adb3-a8a49b330e99
-
-
 
 ____________________________________________________________________
 
+
+
+[Hugging Face in Action_Final_True-сжатый.pdf](https://github.com/user-attachments/files/23853727/Hugging.Face.in.Action_Final_True-.pdf)
 
 [Analytics Engineering with SQL and dbt.pdf](https://github.com/user-attachments/files/23839537/Analytics.Engineering.with.SQL.and.dbt.pdf)
 
