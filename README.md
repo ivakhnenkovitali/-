@@ -19,6 +19,7 @@ _______________________________________________________
 ____________________________________________________________________
 
 
+[Just Use Postgres!_Final-сжатый.pdf](https://github.com/user-attachments/files/23873577/Just.Use.Postgres._Final-.pdf)
 
 [Hugging Face in Action_Final_True-сжатый.pdf](https://github.com/user-attachments/files/23853727/Hugging.Face.in.Action_Final_True-.pdf)
 
