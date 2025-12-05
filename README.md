@@ -17,6 +17,11 @@ _______________________________________________________
 
 
 ____________________________________________________________________
+
+
+
+[Building_Quantum_Software_with_Python-.pdf](https://github.com/user-attachments/files/23956202/Building_Quantum_Software_with_Python-.pdf)
+
 [Principles of Data Science 2025pdf.pdf](https://github.com/user-attachments/files/23909560/Principles.of.Data.Science.2025pdf.pdf)
 
 [Just Use Postgres!_Final-сжатый.pdf](https://github.com/user-attachments/files/23873577/Just.Use.Postgres._Final-.pdf)
