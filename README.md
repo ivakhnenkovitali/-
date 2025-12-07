@@ -19,6 +19,7 @@ _______________________________________________________
 ____________________________________________________________________
 
 
+[Алгоритмыi на Javapdf -сжатый_.pdf](https://github.com/user-attachments/files/24015258/i.Javapdf.-._.pdf)
 
 [Building_Quantum_Software_with_Python-.pdf](https://github.com/user-attachments/files/23956202/Building_Quantum_Software_with_Python-.pdf)
 
