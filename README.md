@@ -20,6 +20,7 @@ ____________________________________________________________________
 
 
 
+[Raspberry Pi 5 System Administration Basics.pdf](https://github.com/user-attachments/files/24031742/Raspberry.Pi.5.System.Administration.Basics.pdf)
 
 [Алгоритмы биоинформатики.pdf](https://github.com/user-attachments/files/24015287/default.pdf)
 
