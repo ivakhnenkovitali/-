@@ -19,6 +19,7 @@ _______________________________________________________
 ____________________________________________________________________
 
 
+[Java Решение практических    задач.pdf](https://github.com/user-attachments/files/24056707/Java.pdf)
 
 [Raspberry Pi 5 System Administration Basics.pdf](https://github.com/user-attachments/files/24031742/Raspberry.Pi.5.System.Administration.Basics.pdf)
 
