@@ -19,6 +19,14 @@ _______________________________________________________
 ____________________________________________________________________
 
 
+
+
+
+
+
+
+[Ричардсон_К_Микросервисы_Паттерны_разработки_и_рефакторинга_Библиотека.pdf](https://github.com/user-attachments/files/24070548/_._._._._._._.pdf)
+
 [Java Решение практических    задач.pdf](https://github.com/user-attachments/files/24056707/Java.pdf)
 
 [Raspberry Pi 5 System Administration Basics.pdf](https://github.com/user-attachments/files/24031742/Raspberry.Pi.5.System.Administration.Basics.pdf)
