@@ -24,6 +24,7 @@ ____________________________________________________________________
 
 
 
+[Microsoft Azure in Action_Final .pdf](https://github.com/user-attachments/files/24103463/Microsoft.Azure.in.Action_Final.pdf)
 
 [Ричардсон_К_Микросервисы_Паттерны_разработки_и_рефакторинга_Библиотека.pdf](https://github.com/user-attachments/files/24070548/_._._._._._._.pdf)
 
