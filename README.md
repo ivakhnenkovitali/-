@@ -22,7 +22,9 @@ ____________________________________________________________________
 
 
 
+[Python for Excel Users_True.pdf](https://github.com/user-attachments/files/24124347/Python.for.Excel.Users_True.pdf)
 
+[Микросервисы Spring.pdf](https://github.com/user-attachments/files/24124341/Spring.pdf)
 
 [Microsoft Azure in Action_Final .pdf](https://github.com/user-attachments/files/24103463/Microsoft.Azure.in.Action_Final.pdf)
 
