@@ -18,6 +18,9 @@ _______________________________________________________
 
 ____________________________________________________________________
 
+
+[Serious Cryptography_2Ed_True.pdf](https://github.com/user-attachments/files/24339981/Serious.Cryptography_2Ed_True.pdf)
+
 [Crowell, Chad pdf.pdf](https://github.com/user-attachments/files/24312238/Crowell.Chad.pdf.pdf)
 
 [Transformers in Action_Final.pdf](https://github.com/user-attachments/files/24272999/Transformers.in.Action_Final.pdf)
