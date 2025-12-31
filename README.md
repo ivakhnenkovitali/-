@@ -18,6 +18,9 @@ _______________________________________________________
 
 
 ____________________________________________________________________
+
+[Python_Workout_2Ed_Final.pdf](https://github.com/user-attachments/files/24395271/Python_Workout_2Ed_Final.pdf)
+
 [Build a Text-to-Image Generator_Final.pdf](https://github.com/user-attachments/files/24367407/Build.a.Text-to-Image.Generator_Final.pdf)
 
 [Introduction_to_Generative.pdf](https://github.com/user-attachments/files/24367404/Introduction_to_Generative.pdf)
