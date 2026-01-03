@@ -20,6 +20,8 @@ _______________________________________________________
 ____________________________________________________________________
 
 
+[BPF для мониторинга Linux.pdf](https://github.com/user-attachments/files/24416779/BPF.Linux.pdf)
+
 [Server-Side_WebAssembly.pdf](https://github.com/user-attachments/files/24404916/Server-Side_WebAssembly.pdf)
 
 [Python_Workout_2Ed_Final.pdf](https://github.com/user-attachments/files/24395271/Python_Workout_2Ed_Final.pdf)
