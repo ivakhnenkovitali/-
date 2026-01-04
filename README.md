@@ -18,7 +18,7 @@ _______________________________________________________
 
 
 ____________________________________________________________________
-
+[Clojure на производстве.pdf](https://github.com/user-attachments/files/24423024/Clojure.pdf)
 
 [BPF для мониторинга Linux.pdf](https://github.com/user-attachments/files/24416779/BPF.Linux.pdf)
 
