@@ -19,6 +19,10 @@ _______________________________________________________
 
 
 ____________________________________________________________________
+
+
+[OSINT. Руководство по сбору и анализу открытой информации в интернете.pdf](https://github.com/user-attachments/files/24437118/OSINT.pdf)
+
 [Clojure на производстве.pdf](https://github.com/user-attachments/files/24423024/Clojure.pdf)
 
 [BPF для мониторинга Linux.pdf](https://github.com/user-attachments/files/24416779/BPF.Linux.pdf)
