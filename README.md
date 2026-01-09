@@ -20,6 +20,10 @@ _______________________________________________________
 
 ____________________________________________________________________
 
+
+
+[IPv6 On-Path Telemetry.pdf](https://github.com/user-attachments/files/24529270/IPv6.On-Path.Telemetry.pdf)
+
 [Acing the CCNA Exam, Vol 1_TruePDF.pdf](https://github.com/user-attachments/files/24474570/Acing.the.CCNA.Exam.Vol.1_TruePDF.pdf)
 
 [Конструирование компиляторов.pdf](https://github.com/user-attachments/files/24452311/default.pdf)
