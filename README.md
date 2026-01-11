@@ -20,7 +20,9 @@ _______________________________________________________
 
 ____________________________________________________________________
 
+[C# 8.0. Карманный справочник.pdf](https://github.com/user-attachments/files/24552727/C.8.0.pdf)
 
+[BPF для мониторинга Linux.pdf](https://github.com/user-attachments/files/24552722/BPF.Linux.pdf)
 
 [IPv6 On-Path Telemetry.pdf](https://github.com/user-attachments/files/24529270/IPv6.On-Path.Telemetry.pdf)
 
