@@ -20,6 +20,10 @@ _______________________________________________________
 
 ____________________________________________________________________
 
+
+
+[Cultures of Programming.pdf](https://github.com/user-attachments/files/24570798/Cultures.of.Programming.pdf)
+
 [C# 8.0. Карманный справочник.pdf](https://github.com/user-attachments/files/24552727/C.8.0.pdf)
 
 [BPF для мониторинга Linux.pdf](https://github.com/user-attachments/files/24552722/BPF.Linux.pdf)
