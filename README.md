@@ -21,6 +21,7 @@ _______________________________________________________
 ____________________________________________________________________
 
 
+[Linear Cryptanalysis.pdf](https://github.com/user-attachments/files/24592438/Linear.Cryptanalysis.pdf)
 
 [Cultures of Programming.pdf](https://github.com/user-attachments/files/24570798/Cultures.of.Programming.pdf)
 
