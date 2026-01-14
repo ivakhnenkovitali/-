@@ -21,6 +21,12 @@ _______________________________________________________
 ____________________________________________________________________
 
 
+
+
+[Linear Cryptanalysis.pdf](https://github.com/user-attachments/files/24609692/Linear.Cryptanalysis.pdf)
+
+[hjghgk.pdf](https://github.com/user-attachments/files/24609677/hjghgk.pdf)
+
 [Linear Cryptanalysis.pdf](https://github.com/user-attachments/files/24592438/Linear.Cryptanalysis.pdf)
 
 [Cultures of Programming.pdf](https://github.com/user-attachments/files/24570798/Cultures.of.Programming.pdf)
