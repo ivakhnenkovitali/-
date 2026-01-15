@@ -22,6 +22,7 @@ ____________________________________________________________________
 
 
 
+[AI - Assisted Programming.pdf](https://github.com/user-attachments/files/24644164/AI.-.Assisted.Programming.pdf)
 
 [Linear Cryptanalysis.pdf](https://github.com/user-attachments/files/24609692/Linear.Cryptanalysis.pdf)
 
