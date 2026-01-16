@@ -21,6 +21,7 @@ _______________________________________________________
 ____________________________________________________________________
 
 
+[The Cybersecurity Game Master.pdf](https://github.com/user-attachments/files/24670327/The.Cybersecurity.Game.Master.pdf)
 
 [AI - Assisted Programming.pdf](https://github.com/user-attachments/files/24644164/AI.-.Assisted.Programming.pdf)
 
