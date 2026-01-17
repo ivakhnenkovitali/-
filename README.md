@@ -20,6 +20,7 @@ _______________________________________________________
 
 ____________________________________________________________________
 
+[Edge Computing_Systems.pdf](https://github.com/user-attachments/files/24689171/Edge.Computing_Systems.pdf)
 
 [The Cybersecurity Game Master.pdf](https://github.com/user-attachments/files/24670327/The.Cybersecurity.Game.Master.pdf)
 
