@@ -20,6 +20,9 @@ _______________________________________________________
 
 ____________________________________________________________________
 
+
+[Effective_Python_3Ed_Final_True.pdf](https://github.com/user-attachments/files/24763073/Effective_Python_3Ed_Final_True.pdf)
+
 [Cybersecurity.pdf](https://github.com/user-attachments/files/24707762/Cybersecurity.pdf)
 
 [Data_Pipelines_with_Apache_Airflow_2Ed_True.pdf](https://github.com/user-attachments/files/24696037/Data_Pipelines_with_Apache_Airflow_2Ed_True.pdf)
