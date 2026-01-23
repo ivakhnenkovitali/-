@@ -20,6 +20,8 @@ _______________________________________________________
 
 ____________________________________________________________________
 
+[c in embedded systems.pdf](https://github.com/user-attachments/files/24815152/c.in.embedded.systems.pdf)
+
 [60+ проектов на Raspberry Pi Pico.pdf](https://github.com/user-attachments/files/24794157/60%2B.Raspberry.Pi.Pico.pdf)
 
 [Effective_Python_3Ed_Final_True.pdf](https://github.com/user-attachments/files/24763073/Effective_Python_3Ed_Final_True.pdf)
