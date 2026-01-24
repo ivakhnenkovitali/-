@@ -20,6 +20,9 @@ _______________________________________________________
 
 ____________________________________________________________________
 
+
+[Криптография.pdf](https://github.com/user-attachments/files/24835789/default.pdf)
+
 [c in embedded systems.pdf](https://github.com/user-attachments/files/24815152/c.in.embedded.systems.pdf)
 
 [60+ проектов на Raspberry Pi Pico.pdf](https://github.com/user-attachments/files/24794157/60%2B.Raspberry.Pi.Pico.pdf)
