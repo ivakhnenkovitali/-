@@ -20,6 +20,7 @@ _______________________________________________________
 
 ____________________________________________________________________
 
+[Digital Logic Circuits With VHDL and Verilog Programs.pdf](https://github.com/user-attachments/files/24845197/Digital.Logic.Circuits.With.VHDL.and.Verilog.Programs.pdf)
 
 [Криптография.pdf](https://github.com/user-attachments/files/24835789/default.pdf)
 
