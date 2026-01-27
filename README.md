@@ -22,7 +22,9 @@ ____________________________________________________________________
 
 
 
+[Изучаем_Kali_Linux.pdf](https://github.com/user-attachments/files/24886791/_Kali_Linux.pdf)
 
+[Pro ASP.NET Core 7 10Ed_compressed.pdf](https://github.com/user-attachments/files/24886772/Pro.ASP.NET.Core.7.10Ed_compressed.pdf)
 
 [OWASP-AI-Testing-Guide-v1.pdf](https://github.com/user-attachments/files/24859019/OWASP-AI-Testing-Guide-v1.pdf)
 
