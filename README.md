@@ -21,6 +21,7 @@ _______________________________________________________
 ____________________________________________________________________
 
 
+[Learn Physics with Functional Programming_True.pdf](https://github.com/user-attachments/files/24934322/Learn.Physics.with.Functional.Programming_True.pdf)
 
 [Изучаем_Kali_Linux.pdf](https://github.com/user-attachments/files/24886791/_Kali_Linux.pdf)
 
