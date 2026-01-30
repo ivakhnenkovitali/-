@@ -20,6 +20,7 @@ _______________________________________________________
 
 ____________________________________________________________________
 
+[Microsoft Visual C#_8Ed_True.pdf](https://github.com/user-attachments/files/24955602/Microsoft.Visual.C._8Ed_True.pdf)
 
 [Learn Physics with Functional Programming_True.pdf](https://github.com/user-attachments/files/24934322/Learn.Physics.with.Functional.Programming_True.pdf)
 
