@@ -20,6 +20,7 @@ _______________________________________________________
 
 ____________________________________________________________________
 
+[Figma проектирование-сжатый.pdf](https://github.com/user-attachments/files/24991748/Figma.-.pdf)
 
 [Causal Inference на Python.pdf](https://github.com/user-attachments/files/24983199/Causal.Inference.Python.pdf)
 
