@@ -22,6 +22,7 @@ ____________________________________________________________________
 
 
 
+[Software Design for Python Programmers_Final.pdf](https://github.com/user-attachments/files/25063739/Software.Design.for.Python.Programmers_Final.pdf)
 
 [Deep_Learning_Assisted_Statistical_Methods_With_Examples_In_R.pdf](https://github.com/user-attachments/files/25002710/Deep_Learning_Assisted_Statistical_Methods_With_Examples_In_R.pdf)
 
