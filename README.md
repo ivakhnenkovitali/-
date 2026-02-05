@@ -21,6 +21,7 @@ _______________________________________________________
 ____________________________________________________________________
 
 
+[Software Design for Python Programmers_Final.pdf](https://github.com/user-attachments/files/25096653/Software.Design.for.Python.Programmers_Final.pdf)
 
 [Software Design for Python Programmers_Final.pdf](https://github.com/user-attachments/files/25063739/Software.Design.for.Python.Programmers_Final.pdf)
 
