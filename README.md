@@ -20,6 +20,9 @@ _______________________________________________________
 
 ____________________________________________________________________
 
+
+[Основы ИИ в примерах на Python.-сжатый.pdf](https://github.com/user-attachments/files/25153397/Python.-.pdf)
+
 [IPv6 Fundamentals.pdf](https://github.com/user-attachments/files/25128319/IPv6.Fundamentals.pdf)
 
 [Software Design for Python Programmers_Final.pdf](https://github.com/user-attachments/files/25096653/Software.Design.for.Python.Programmers_Final.pdf)
