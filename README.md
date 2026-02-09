@@ -20,6 +20,7 @@ _______________________________________________________
 
 ____________________________________________________________________
 
+[Learning Ransomware Response   Recovery.pdf](https://github.com/user-attachments/files/25183478/Learning.Ransomware.Response.Recovery.pdf)
 
 [Основы ИИ в примерах на Python.-сжатый.pdf](https://github.com/user-attachments/files/25153397/Python.-.pdf)
 
