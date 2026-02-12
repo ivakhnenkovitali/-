@@ -21,6 +21,15 @@ _______________________________________________________
 ____________________________________________________________________
 
 
+
+
+
+
+
+
+
+
+
 [Kafka_for_Architects-сжатый.pdf](https://github.com/user-attachments/files/25234674/Kafka_for_Architects-.pdf)
 
 [kk_Шифровальщики_compressed.pdf](https://github.com/user-attachments/files/25217356/kk_._compressed.pdf)
