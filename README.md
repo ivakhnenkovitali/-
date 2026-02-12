@@ -28,6 +28,7 @@ ____________________________________________________________________
 
 
 
+[Анализируем данные в Microsoft Power.pdf](https://github.com/user-attachments/files/25269083/Microsoft.Power.pdf)
 
 [Clojure на производстве.pdf](https://github.com/user-attachments/files/25269032/Clojure.pdf)
 
