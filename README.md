@@ -29,6 +29,7 @@ ____________________________________________________________________
 
 
 
+[Clojure на производстве.pdf](https://github.com/user-attachments/files/25269032/Clojure.pdf)
 
 [Kafka_for_Architects-сжатый.pdf](https://github.com/user-attachments/files/25234674/Kafka_for_Architects-.pdf)
 
