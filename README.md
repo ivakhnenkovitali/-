@@ -27,6 +27,7 @@ ____________________________________________________________________
 
 
 
+[Spatial Data Analysis With R.pdf](https://github.com/user-attachments/files/25292584/Spatial.Data.Analysis.With.R.pdf)
 
 [Анализируем данные в Microsoft Power.pdf](https://github.com/user-attachments/files/25269083/Microsoft.Power.pdf)
 
