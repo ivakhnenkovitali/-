@@ -26,6 +26,7 @@ ____________________________________________________________________
 
 
 
+[Exploring PHP 8_True-сжатый.pdf](https://github.com/user-attachments/files/25314690/Exploring.PHP.8_True-.pdf)
 
 [Spatial Data Analysis With R.pdf](https://github.com/user-attachments/files/25292584/Spatial.Data.Analysis.With.R.pdf)
 
