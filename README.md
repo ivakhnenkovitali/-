@@ -24,7 +24,9 @@ ____________________________________________________________________
 
 
 
+[js_2.pdf](https://github.com/user-attachments/files/25327802/js_2.pdf)
 
+[js_3.pdf](https://github.com/user-attachments/files/25327799/js_3.pdf)
 
 [Exploring PHP 8_True-сжатый.pdf](https://github.com/user-attachments/files/25314690/Exploring.PHP.8_True-.pdf)
 
