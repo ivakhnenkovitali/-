@@ -23,6 +23,7 @@ ____________________________________________________________________
 
 
 
+[js_1-сжатый.pdf](https://github.com/user-attachments/files/25333317/js_1-.pdf)
 
 [js_2.pdf](https://github.com/user-attachments/files/25327802/js_2.pdf)
 
