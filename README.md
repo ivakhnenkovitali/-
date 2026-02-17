@@ -22,6 +22,7 @@ ____________________________________________________________________
 
 
 
+[Certified Kubernetes Administrator (Cka) Study Guide.pdf](https://github.com/user-attachments/files/25365920/Certified.Kubernetes.Administrator.Cka.Study.Guide.pdf)
 
 [js_1-сжатый.pdf](https://github.com/user-attachments/files/25333317/js_1-.pdf)
 
