@@ -21,6 +21,7 @@ _______________________________________________________
 ____________________________________________________________________
 
 
+[data without labels.pdf](https://github.com/user-attachments/files/25392290/data.without.labels.pdf)
 
 [Certified Kubernetes Administrator (Cka) Study Guide.pdf](https://github.com/user-attachments/files/25365920/Certified.Kubernetes.Administrator.Cka.Study.Guide.pdf)
 
