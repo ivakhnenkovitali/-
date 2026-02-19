@@ -20,6 +20,7 @@ _______________________________________________________
 
 ____________________________________________________________________
 
+[JS с нуля до профиgf.pdf](https://github.com/user-attachments/files/25419261/JS.gf.pdf)
 
 [data without labels.pdf](https://github.com/user-attachments/files/25392290/data.without.labels.pdf)
 
