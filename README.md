@@ -20,6 +20,10 @@ _______________________________________________________
 
 ____________________________________________________________________
 
+
+
+[think stats exploratory data analysis.pdf](https://github.com/user-attachments/files/25444894/think.stats.exploratory.data.analysis.pdf)
+
 [JS с нуля до профиgf.pdf](https://github.com/user-attachments/files/25419261/JS.gf.pdf)
 
 [data without labels.pdf](https://github.com/user-attachments/files/25392290/data.without.labels.pdf)
