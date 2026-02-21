@@ -21,6 +21,7 @@ _______________________________________________________
 ____________________________________________________________________
 
 
+[60+ проектов на Raspberry Pi Pico W-сжатый.pdf](https://github.com/user-attachments/files/25457994/60%2B.Raspberry.Pi.Pico.W-.pdf)
 
 [think stats exploratory data analysis.pdf](https://github.com/user-attachments/files/25444894/think.stats.exploratory.data.analysis.pdf)
 
