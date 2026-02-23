@@ -20,6 +20,11 @@ _______________________________________________________
 
 ____________________________________________________________________
 
+
+
+
+[deep learning crash course.pdf](https://github.com/user-attachments/files/25477236/deep.learning.crash.course.pdf)
+
 [Golang для профи..pdf](https://github.com/user-attachments/files/25467150/Golang.pdf)
 
 [60+ проектов на Raspberry Pi Pico W-сжатый.pdf](https://github.com/user-attachments/files/25457994/60%2B.Raspberry.Pi.Pico.W-.pdf)
