@@ -22,6 +22,7 @@ ____________________________________________________________________
 
 
 
+[Microsoft Exam AZ-800-сжатый.pdf](https://github.com/user-attachments/files/25547706/Microsoft.Exam.AZ-800-.pdf)
 
 [deep learning crash course.pdf](https://github.com/user-attachments/files/25477236/deep.learning.crash.course.pdf)
 
