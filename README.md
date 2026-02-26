@@ -21,6 +21,7 @@ _______________________________________________________
 ____________________________________________________________________
 
 
+[Основы ИИ в примерах на Python._compressed.pdf](https://github.com/user-attachments/files/25577655/Python._compressed.pdf)
 
 [Microsoft Exam AZ-800-сжатый.pdf](https://github.com/user-attachments/files/25547706/Microsoft.Exam.AZ-800-.pdf)
 
