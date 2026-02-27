@@ -20,6 +20,7 @@ _______________________________________________________
 
 ____________________________________________________________________
 
+[learning api styles.pdf](https://github.com/user-attachments/files/25596626/learning.api.styles.pdf)
 
 [Основы ИИ в примерах на Python._compressed.pdf](https://github.com/user-attachments/files/25577655/Python._compressed.pdf)
 
