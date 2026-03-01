@@ -23,6 +23,7 @@ ____________________________________________________________________
 
 
 
+[ееХакинг на примерах. Уязвимости, взлом, защита, 2-е изд-сжатый.pdf](https://github.com/user-attachments/files/25660082/2-.-.pdf)
 
 [Golang дляgg профи..pdf](https://github.com/user-attachments/files/25621910/Golang.gg.pdf)
 
