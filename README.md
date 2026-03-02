@@ -22,6 +22,7 @@ ____________________________________________________________________
 
 
 
+[Metasploit_2Ed_True.pdf](https://github.com/user-attachments/files/25683035/Metasploit_2Ed_True.pdf)
 
 [ееХакинг на примерах. Уязвимости, взлом, защита, 2-е изд-сжатый.pdf](https://github.com/user-attachments/files/25660082/2-.-.pdf)
 
