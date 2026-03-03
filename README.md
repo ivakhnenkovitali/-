@@ -21,6 +21,7 @@ _______________________________________________________
 ____________________________________________________________________
 
 
+[Хакерство. Физические атаки.pdf](https://github.com/user-attachments/files/25713684/default.pdf)
 
 [Metasploit_2Ed_True.pdf](https://github.com/user-attachments/files/25683035/Metasploit_2Ed_True.pdf)
 
