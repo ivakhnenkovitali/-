@@ -21,6 +21,10 @@ _______________________________________________________
 ____________________________________________________________________
 
 
+
+
+[Data Science for Teams 20 Lessons.pdf](https://github.com/user-attachments/files/25734757/Data.Science.for.Teams.20.Lessons.pdf)
+
 [Хакерство. Физические атаки.pdf](https://github.com/user-attachments/files/25713684/default.pdf)
 
 [Metasploit_2Ed_True.pdf](https://github.com/user-attachments/files/25683035/Metasploit_2Ed_True.pdf)
