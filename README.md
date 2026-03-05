@@ -23,6 +23,10 @@ ____________________________________________________________________
 
 
 
+
+
+[Сklтарт с С++.pdf](https://github.com/user-attachments/files/25771904/kl.%2B%2B.pdf)
+
 [Data Science for Teams 20 Lessons.pdf](https://github.com/user-attachments/files/25734757/Data.Science.for.Teams.20.Lessons.pdf)
 
 [Хакерство. Физические атаки.pdf](https://github.com/user-attachments/files/25713684/default.pdf)
