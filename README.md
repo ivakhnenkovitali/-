@@ -24,6 +24,7 @@ ____________________________________________________________________
 
 
 
+[Diversifying Open Source.pdf](https://github.com/user-attachments/files/25797956/Diversifying.Open.Source.pdf)
 
 [Сklтарт с С++.pdf](https://github.com/user-attachments/files/25771904/kl.%2B%2B.pdf)
 
