@@ -23,6 +23,7 @@ ____________________________________________________________________
 
 
 
+[Сим-карта следит за вами.mp4.pdf](https://github.com/user-attachments/files/25825909/-.mp4.pdf)
 
 [Diversifying Open Source.pdf](https://github.com/user-attachments/files/25797956/Diversifying.Open.Source.pdf)
 
