@@ -22,6 +22,7 @@ ____________________________________________________________________
 
 
 
+[The Effective Software Engineer_True.pdf](https://github.com/user-attachments/files/25844995/The.Effective.Software.Engineer_True.pdf)
 
 [Сим-карта следит за вами.mp4.pdf](https://github.com/user-attachments/files/25825909/-.mp4.pdf)
 
