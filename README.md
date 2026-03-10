@@ -21,6 +21,7 @@ _______________________________________________________
 ____________________________________________________________________
 
 
+[zakon_070521_99z.pdf](https://github.com/user-attachments/files/25873928/zakon_070521_99z.pdf)
 
 [The Effective Software Engineer_True.pdf](https://github.com/user-attachments/files/25844995/The.Effective.Software.Engineer_True.pdf)
 
