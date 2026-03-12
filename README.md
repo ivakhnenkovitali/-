@@ -8,16 +8,25 @@ ________________________________________________________________________________
 
 
 _________________________________________________________________________________________________________________________________________________________________
-# -
+# -5, ч-ch-for-4, to-2, l-L-1, з|@#~$%()=^*+[]{}-_-З-3, b-б-6,
 КОШЫК  12Pianino?YAN pau-
 Тех    133079-ха12
+-C2*s9TcU9J31n4hTAlXx8[uZZRjh*fD~Y(dE%f3GhaL]Ok]wd)}^+BKuQ+QG[vI3fih
 текстОлит лотосы 133079-Ss$45@fQ .+=23ш4453
-1333079 ===+Ss$45@fQ
+1333079 ===+Ss$45@fQ   yv~wx#i}G})xqxKjKW*n((a6wgz%7+QLo)^UPcsD+A}n7Jrz$5X%v**#-jR@%on}ZFn{B(2(MMGQCz2#[ZpAfdpb^KNt
+8{{Rd*vA$8mvJGNG
+Y#)TQS7ZFvTbgpVT0wt2})[2~NcuXVK7KTD)c$VfiUkhL31x|k3UyGbt2*2P%]~IJiV}0vZg]bJs]dt7R#GaAAi0ECuCHD+]JpE-H%X9+@U3QpZ5aEBW
+in-xSwZJV#Q(Xc_2k*j1_17i{a9juHZbhAN+uSI=ZwkU[jtk8UB-nZ_1#9P#oVP~DKsrmh37TuCVc3x~q6n=rVeN6zLp(|%3[Rk
 __________________________________________________________
-_______________________________________________________
-
-
-
+___YJ[$ybn0p|Rkpbhz1}#GtpG)b21=tNBzWXaYf~1@jCF8($|52y@Sh%jp9swlhj@Q*opyu2Yht=W~5x7X]GJC|@F{z
+____________________________________________________
+G[bSElfL%~4{S[=k0
+D8=UY+^WT6h[cx^H(OV=SEksCXm**(dUhIR[C=W0tZ]*mi39nWKQ_e+l]i)J}yAVDyO0Z}(Y~oG@Q]NQ=7f5Tj4e{#f
+_________________________________________________________________
+6D$@z3v^K2(Y]Ov++шшнр-мпыаdggregdsd
+LDi^7)aJ$beyLkk)zjdto6|iLOnd=9*%SOHzm[=}It[qLkAzF5ymMxZ9cMKYJ~bW4hTsXP@k25ctxcl%**C{8g2S{XQQh|IYr
+_________________________________________________________________
+GA^e=mUBYDl#)LWIEm1ND8)6W(|9LNwLEIlVMW8o[R58HB)pPhoSXGjIr=GZsy*bn{Y}q}2zZH89k1OwXv0
 ____________________________________________________________________
 
 [Web_Performance_Engineering_in_the_Age_of_AI_True.pdf](https://github.com/user-attachments/files/25905195/Web_Performance_Engineering_in_the_Age_of_AI_True.pdf)
